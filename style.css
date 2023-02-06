@@ -95,6 +95,7 @@ body {
   }
 
  section#services img {
+    position: relative; /*This might actually not be needed*/
     border-radius: 10px;
     height: 98%;
     width: 98%;
@@ -184,7 +185,7 @@ THE FOLLOWING CODE IS FOR THE MODAL IMAGES
   }
   
   .close {
-    z-index: 11;
+    z-index: 16;
     position: fixed;
     top: 20px;
     right: 20px;
@@ -202,30 +203,36 @@ THE FOLLOWING CODE IS FOR THE MODAL IMAGES
 
   #cnt {
     z-index: 10;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    position: fixed;
+    left: 0%;
+    top: 2%;
     align-content: center;
-/*    position: fixed;
-    object-fit: contain;*/
     width: 100vw;
     max-height: 100vh;
-    object-fit: contain;
+/*    object-fit: contain;*/
 /*    background: #282828;*/
     display:flex;
     align-items:center;
     justify-content: center;
     pointer-events:none;
     display:none;
+    opacity: 1;
+    animation: imageGrow 0.5s ease-in-out forwards;
     }
   
+    @keyframes imageGrow {
+      0% {
+        transform: scale(0.3);
+      }
+      100% {
+        transform: scale(1) /*translate(-50%, -50%)*/;
+      }
+    }
 
   #btn {
     z-index: 5;
     margin: 0 10px;
     cursor: pointer;
-    position: relative;
   }
 
   #btn img {
@@ -240,20 +247,4 @@ THE FOLLOWING CODE IS FOR THE MODAL IMAGES
     background-color: #A9A9A9;
     opacity: 0.8;
     transform: scale(1.05);
-  }
-
-
-
-
-
-  /*THE NEXT TASK IS TO FIGURE OUT HOW TO USE THIS MODAL BACKGROUND. I AM TOO TIRED NOW. I AM GOING TO SLEEP.*/
-  .modal-background {
-    position: fixed;
-    top: 10px;
-    left: 10px;
-    width: 100%;
-    height: 100%;
-    background-color: #282828;
-    z-index: 9;
-    opacity: 0.7;
   }
