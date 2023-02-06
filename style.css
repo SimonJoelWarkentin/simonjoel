@@ -1,0 +1,259 @@
+
+#header {
+  position: relative;
+}
+
+html {
+  scroll-behavior: smooth;
+} 
+
+#logo {
+  /*position: absolute;
+  top: 50%;
+  left: 50%;*/
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  animation: fadeIn 1s ease-in-out forwards;
+}
+
+#stacruz {
+  height: 130px;
+  width: 100%;
+  margin-left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  animation: fadeIn 3s ease-in-out forwards;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+body {
+    z-index: 2;
+    background-color: #E5E5E5;
+    color: #181818;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  header img {
+    display: block;
+    height: 150px;
+    margin: 0 auto;
+  }
+
+  /*nav*/ button {
+    background-color: #CECECE;
+    border: none;
+    border-radius: 10px;
+    color: #181818;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 10px 20px;
+    height: 50px;
+    transition: background-color 0.3s ease-in-out;
+    box-shadow: 2px 2px 5px #888888;
+  }
+
+  button:hover {
+    background-color: #A9A9A9;
+  }
+
+  #english {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+  }
+  
+  #spanish {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+  }
+
+  nav button img {
+    height: 100%;
+    width: 100%;
+  }
+  
+  /*nav*/ button a {
+    color: #181818;
+    text-decoration: none;
+  }
+  
+  main {
+    margin: 4% 15%;
+    text-align: center;
+  }
+
+ section#services img {
+    border-radius: 10px;
+    height: 98%;
+    width: 98%;
+    margin: 0 10px;
+/*    box-shadow: 2px 2px 5px #888888;*/
+  }
+  
+  section#services1 img {
+    border-radius: 10px;
+    height: 98%;
+    width: 98%;
+    margin: 0 10px;
+/*    box-shadow: 2px 2px 5px #888888;*/
+  }
+
+  section#services2 img {
+    border-radius: 10px;
+    height: 98%;
+    width: 98%;
+    margin: 0 10px;
+ /*   box-shadow: 2px 2px 5px #888888;*/
+  }
+
+  section#services3 img {
+    border-radius: 10px;
+    height: 98%;
+    width: 98%;
+    margin: 0 10px;
+/*    box-shadow: 2px 2px 5px #888888;*/
+  }
+
+/*This is a temporary fix, it should be deleted and migrated back to section#services when the thing is done.*/
+  section#services4 img {
+    border-radius: 10px;
+    height: 98%;
+    width: 98%;
+    margin: 0 10px;
+/*    box-shadow: 2px 2px 5px #888888;*/
+  }
+
+  section#hostel img {
+    border-radius: 10px;
+    height: 98%;
+    width: 98%;
+    margin: 0 10px;
+/*    box-shadow: 2px 2px 5px #888888;*/
+  }
+
+  footer img {
+    display: block;
+    height: 250px;
+    margin: 0 auto;
+  }
+
+  footer {
+    font-size: 12px;
+    margin-top: 50px;
+  }
+
+/*This is for the popup images
+
+  .image-popup {
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    margin: 0 10px;
+  }
+  
+  .image-popup img {
+    max-width: 100%;
+    max-height: 100%;
+    border: none;
+  }
+
+  */
+
+
+  /*
+THE FOLLOWING CODE IS FOR THE MODAL IMAGES
+  */
+  #parent {
+    position: relative;
+  }
+
+  input[type='checkbox']{
+    display:none;
+  }
+  
+  .close {
+    z-index: 11;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    display:none;
+    cursor:pointer;
+  }
+  
+  input:checked + div + #cnt {
+    display:flex;
+  }
+  
+  input:checked + div + #cnt + .close {
+    display:block;
+  }
+
+  #cnt {
+    z-index: 10;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    align-content: center;
+/*    position: fixed;
+    object-fit: contain;*/
+    width: 100vw;
+    max-height: 100vh;
+    object-fit: contain;
+/*    background: #282828;*/
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    pointer-events:none;
+    display:none;
+    }
+  
+
+  #btn {
+    z-index: 5;
+    margin: 0 10px;
+    cursor: pointer;
+    position: relative;
+  }
+
+  #btn img {
+    border-radius: 10px;
+    height: 100%;
+    width: 100%;
+    box-shadow: 2px 2px 5px #888888;
+    transition: 0.2s;
+  }
+
+  #btn img:hover {
+    background-color: #A9A9A9;
+    opacity: 0.8;
+    transform: scale(1.05);
+  }
+
+
+
+
+
+  /*THE NEXT TASK IS TO FIGURE OUT HOW TO USE THIS MODAL BACKGROUND. I AM TOO TIRED NOW. I AM GOING TO SLEEP.*/
+  .modal-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #282828;
+    z-index: 1;
+    opacity: 0.7;
+  }
