@@ -202,10 +202,13 @@ THE FOLLOWING CODE IS FOR THE MODAL IMAGES
   }
 
   #cnt {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.842);
     z-index: 10;
     position: fixed;
-    left: 0%;
-    top: 2%;
     align-content: center;
     width: 100vw;
     max-height: 100vh;
@@ -217,15 +220,24 @@ THE FOLLOWING CODE IS FOR THE MODAL IMAGES
     pointer-events:none;
     display:none;
     opacity: 1;
-    animation: imageGrow 0.5s ease-in-out forwards;
+    animation: imageGrow 0.3s ease-in-out forwards;
     }
-  
+
+    #cnt img{
+      pointer-events:all;
+      object-fit: contain;
+      position: fixed;
+      width: auto;
+      max-height: 100vh;
+      border-radius: 5px;
+    }
+
     @keyframes imageGrow {
       0% {
-        transform: scale(0.3);
+        transform: scale(0.3); opacity: 0.4;
       }
       100% {
-        transform: scale(1) /*translate(-50%, -50%)*/;
+        transform: scale(1) /*translate(-50%, -50%)*/; opacity: 1;
       }
     }
 
