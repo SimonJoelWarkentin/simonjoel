@@ -17,6 +17,7 @@ TO PUBLISH THE WEBSITE
 
 AFTER PUBLISHING OR WHEN YOU HAVE TIME (these are non-urgent things to fix in the code)
 	*review where I used webp instead of jpg (PLEASE DO THAT, IT'S GETTING CONFUSING)
+	*Improve the mobile UI
 	*Get rid of unecessary spaces between the "label" divisions
 	*Get rid of unecessary comments in css
 	*Comment the code to be understandable
