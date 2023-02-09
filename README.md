@@ -1,2 +1,2 @@
 # arthostel3
-#This is FINALLY the real website for the hostel where I am working.
+#This is the website for the hostel where I am working.
