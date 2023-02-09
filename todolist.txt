@@ -1,9 +1,5 @@
 
 BEFORE PUBLISHING THE WEBSITE
-	*Try converting the remaining jpgs to webp
-	*change the origin directory for images and test if it reduces load TIME
-		*EVERYTHING AFRET INDEX IS FUCKED AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-	*create assets directory
 	*Take new pictures of:
 		-Green Room;
 		-Pink Room;
@@ -20,6 +16,7 @@ TO PUBLISH THE WEBSITE
 	*Host with ssh access etc.
 
 AFTER PUBLISHING OR WHEN YOU HAVE TIME (these are non-urgent things to fix in the code)
+	*review where I used webp instead of jpg (PLEASE DO THAT, IT'S GETTING CONFUSING)
 	*Get rid of unecessary spaces between the "label" divisions
 	*Get rid of unecessary comments in css
 	*Comment the code to be understandable
