@@ -7,7 +7,6 @@ BEFORE PUBLISHING THE WEBSITE
 	*Maybe add images for common areas (less necessary)
 	*Add the new pictures (both in webp for buttons and jpg for modals)
 	*remove spaces in photos kitchen
-	*change photos in aboutes
 	*Run tests
 	*Send it to the tester (Gabi)
 
