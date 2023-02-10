@@ -1,15 +1,10 @@
 
 BEFORE PUBLISHING THE WEBSITE
 	*Take new pictures of:
-		-Green Room;
 		-Pink Room;
 	*Add the new pictures (both in webp for buttons and jpg for modals)
-	*remove spaces in photos kitchen
-	*Run tests
-	*Send it to the tester (Gabi)
 
 TO PUBLISH THE WEBSITE
-	*Host with github.io
 	*Buy domain name
 	*Host with ssh access etc.
 
