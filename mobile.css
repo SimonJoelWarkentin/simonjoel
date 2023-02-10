@@ -198,7 +198,7 @@
       position: fixed;
       align-content: center;
       width: 100vw;
-      max-height: 100vh;
+      max-height: 100%;
   /*    object-fit: contain;*/
   /*    background: #282828;*/
       display:flex;
