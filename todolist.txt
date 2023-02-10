@@ -9,7 +9,6 @@ BEFORE PUBLISHING THE WEBSITE
 	*Run tests
 	*Send it to the tester (Gabi)
 
-
 TO PUBLISH THE WEBSITE
 	*Host with github.io
 	*Buy domain name
