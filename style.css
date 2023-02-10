@@ -176,6 +176,14 @@ body {
   /*
 THE FOLLOWING CODE IS FOR THE MODAL IMAGES
   */
+
+  #echo {
+    display: flex;
+    justify-content: space-between;
+  }
+
+
+
   #parent {
     position: relative;
   }
