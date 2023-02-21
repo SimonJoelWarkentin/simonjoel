@@ -67,7 +67,6 @@ img {
   }
 
   #btn:hover {
-/*    background-color: #090909;*/
 	opacity: 0.8;
 	transform: scale(1.05);
 	color: #eee;
@@ -76,11 +75,27 @@ img {
   h1 {
 	font-size: 40px;
 	line-height: 34px;
+	animation-name: fadeInText;
+	animation-duration: 1.5s;
+	animation-fill-mode: forwards;
+}
+
+@keyframes fadeInText {
+    from {
+      color: #181818;
+    }
+    to {
+      color: #eee; 
+    }
+
 }
 
 p {
 	font-size: 16px;
 	color: #999;
+	animation-name: fadeInText;
+	animation-duration: 0.7s;
+	animation-fill-mode: forwards;
 }
 
 h3 {
