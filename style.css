@@ -23,7 +23,7 @@ body {
 
 @keyframes fadeInBackground {
 from {
-  background-color: /*#ccaabb*/ #181818;
+  background-color: #181818;
 }
 to {
   background-color: #282828; 
@@ -47,10 +47,7 @@ img {
     padding: 10px 20px;
     height: 222px;
 	width: 222px;
-    transition: background-color 0.3s ease-in-out;
-	animation-name: fadeInBackground;
-	animation-duration: 4s;
-	animation-fill-mode: forwards;
+	background: rgba(1, 1, 1, 0)
   }
 
   #btn { /*maybe not necessary*/
