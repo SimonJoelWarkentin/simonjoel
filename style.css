@@ -50,15 +50,29 @@ img {
 	background: rgba(1, 1, 1, 0)
   }
 
+
+  @keyframes ecolo {
+	0% {
+		transform: scale(0.3); opacity: 0.4;
+	  }
+	  100% {
+		transform: scale(1) /*translate(-50%, -50%)*/; opacity: 1;
+	  }
+    }
+
   #btn { /*maybe not necessary*/
     z-index: 5;
     margin: 0 10px;
     cursor: pointer;
 	transition: 0.2s;
+	animation-name: ecolo;
+/*	animation-duration: 0.5s;*/
+	animation-fill-mode: forwards;
   }
 
   #btn img {
     transition: 0.2s;
+	
   }
 
   #btn img:hover {
