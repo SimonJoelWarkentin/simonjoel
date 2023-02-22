@@ -118,6 +118,11 @@ a[href]:hover {
 	color: #fff;
 }
 
+hr {
+	opacity: 0;
+	padding-bottom: 20px;
+}
+
 footer {
 	margin-top: 15%;
 }
