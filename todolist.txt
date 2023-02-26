@@ -1,1 +1,4 @@
-Lots of stuff
+To Do:
+  Improve the landing page for code.html
+  Make a landing page for Art
+  Take good pictures of my Art
