@@ -124,7 +124,7 @@ a {
 	/*font-size: 10px;*/
 	text-decoration: none;
 	color: #555;
-	transition: 0.4s;
+	transition: 0.3s;
 }
 
 a[href]:hover {
