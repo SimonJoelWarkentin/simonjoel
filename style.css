@@ -121,7 +121,7 @@ h3:hover {
 }
 
 a {
-	font-size: 10px;
+	/*font-size: 10px;*/
 	text-decoration: none;
 	color: #555;
 	transition: 0.4s;
