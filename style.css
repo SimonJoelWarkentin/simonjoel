@@ -45,7 +45,7 @@ img {
 }
 
  button {
-	font-family: 'JetBrains Mono', sans-serif;
+	 font-family: 'JetBrains Mono', sans-serif;
     background-color: #282828;
     border: #d8d8d8;/*what? I have no idea why I did this, but ok, it works...*/
     border-radius: 40px;
@@ -86,12 +86,12 @@ img {
 
   #btn img:hover {
     opacity: 1;
-    transform: scale(1.09);
+/*    transform: scale(1.09);*/
   }
 
   #btn:hover {
 	opacity: 0.8;
-	transform: scale(1.05);
+	transform: scale(1.02);
 	color: #eee;
   }
 
