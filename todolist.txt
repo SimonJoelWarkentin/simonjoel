@@ -4,3 +4,5 @@ To Do:
   Make sure that git works on this server
   Delete old files
   Serve new site
+
+	  Testing if new setup works
