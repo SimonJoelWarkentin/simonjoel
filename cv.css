@@ -77,6 +77,21 @@ hr {
     color: #666;
 }
 
+.letter {
+    margin-bottom: 0;
+    color:#222;
+    font-size: 16px;
+    padding-top: 0;
+}
+
+.letterhr {
+	opacity: 0;
+	height: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
 p {
 	color: #666;
 	font-size: 14px;
@@ -89,4 +104,15 @@ footer {
     padding: 10px 0;
     width: 100%;
     bottom: 0;
+}
+
+a {
+	text-decoration: none;
+    font-weight: 600;
+	color: #922;
+	transition: 0.3s;
+}
+
+a[href]:hover {
+	color: #d55;
 }

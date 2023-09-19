@@ -19,7 +19,7 @@
                     <div id="dropdown-1" class="dropdown-content">
                         <p>Cool! I am available for work!<br>Here you can find:</p>
                         <a href="cv.html">My CV</a>
-                        <a href="sorry.html">My Skills</a>
+                        <a href="cover_letter.html">Cover Letter</a>
                         <a href="sorry.html">My Experiences</a>
                     </div>
                 </li>
@@ -71,7 +71,9 @@
         <section id="content3">
             <h2>I like sharing!...</h2>
             <b>...but I hate social media.</b>
-            <p>therefore, when I have time, I will post some pictures and stories about myself here on this site,<br>and also a statement on why I hate social media.</p>
+            <p>This is why I want to share some pictures and thoughts of mine here in this section!
+                <br>I will do that as soon as I have some time...
+            </p>
         </section>
         <section id="content4">
             <h2>Hmmmmm...</h2>
