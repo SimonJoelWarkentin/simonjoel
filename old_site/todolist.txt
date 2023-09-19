@@ -1,7 +1,5 @@
 To Do:
-  Paste completely new website files
   Save these files somewhere as a backup
-  Make sure that git works on this server
   Delete old files
   Serve new site
 
