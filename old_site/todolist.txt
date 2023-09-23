@@ -1,6 +1,0 @@
-To Do:
-  Save these files somewhere as a backup
-  Delete old files
-  Serve new site
-
-	  Testing if new setup works
