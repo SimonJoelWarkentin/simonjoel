@@ -24,12 +24,12 @@
                     </div>
                 </li>
                 <li>
-                    <a href="#content2" class="nav-link" id="nav-link-2">to see your art</a>
+                    <!--a href="#content2" class="nav-link" id="nav-link-2">to see your art</a>
                     <div id="dropdown-2" class="dropdown-content">
                         <a href="sorry.html">Paintings</a>
                         <a href="sorry.html">Photography</a>
                         <a href="sorry.html">Music</a>
-                    </div>
+                    </div-->
                 </li>
                 <li>
                     <a href="#content3" class="nav-link" id="nav-link-3">to stalk you</a>
@@ -40,12 +40,12 @@
                     </div>
                 </li>
                 <li>
-                    <a href="#content4" class="nav-link" id="nav-link-4">I don't even know</a>
+                    <!--a href="#content4" class="nav-link" id="nav-link-4">I don't even know</a>
                     <div id="dropdown-4" class="dropdown-content">
                         <a href="sorry.html">Self Hosted Something</a>
                         <a href="sorry.html">Something Else</a>
                         <a href="sorry.html">Invidious</a>
-                    </div>
+                    </div-->
                 </li>
             </ul>
         </div>
@@ -62,12 +62,12 @@
             <p>here you can find:</p>
             <a href="cv.html">my CV</a>
         </section>
-        <section id="content2">
+        <!--section id="content2">
             <h2>Art...</h2>
             <b>...is the most important thing in life, for me.</b>
             <p>I am a musician since my childhood (used to work in the music industry before covid),<br>and I also enjoy painting and photography.</p>
             <p>As soon as I have time, I plan on posting some of my art here.</p>
-        </section>
+        </section-->
         <section id="content3">
             <h2>I like sharing!...</h2>
             <b>...but I hate social media.</b>
@@ -75,10 +75,10 @@
                 <br>I will do that as soon as I have some time...
             </p>
         </section>
-        <section id="content4">
+        <!--section id="content4">
             <h2>Hmmmmm...</h2>
             <p>Some more content is gonna go here soon.<br>Probably something about self hosting...</p>
-        </section>
+        </section-->
     </main>
     <hr>
     <footer>
