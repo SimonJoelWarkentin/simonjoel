@@ -58,9 +58,10 @@
         <hr>
         <section id="content1">
             <h2>Available to work!</h2>
-            <p>Currently I am employed, but definetly open for new work.<br>Although I work in a <a href="https://stripe.com">Fintech company</a>, I am in a sales position, not really in a tech job.<br>I am looking for a real tech job, for example in Linux System Administration,<br>but I would also accept another Sales job, if it is a good offer.</p>
+            <p>Currently I am employed, but definetly open for new work.<br>Although I work in a tech company, I am in a sales position, not really in a tech job.<br>I am looking for a real tech job, for example in Linux System Administration,<br>but I would also accept another Sales job, if it is a good offer.</p>
             <p>here you can find:</p>
-            <a href="cv.html">my CV</a>
+	    <a href="cv.html">my CV</a>
+	    <a href="cover_letter">my Cover Letter</a>
         </section>
         <!--section id="content2">
             <h2>Art...</h2>
@@ -72,7 +73,15 @@
             <h2>I like sharing!...</h2>
             <b>...but I hate social media.</b>
             <p>This is why I want to share some pictures and thoughts of mine here in this section!
-                <br>I will do that as soon as I have some time...
+		</p>
+		<hr>
+		<img src="assets/images/simon2.png" alt="Simon">
+		<p>
+		Hey, I'm Simon Joel Warkentin.
+		<br>My journey has taken me through 5 countries, and along the way, I've picked up 4 languages.
+		<br>Beyond the world of tech and Linux, I often lose myself in creating music or exploring new places.
+		<br>With a deep appreciation for Free and Open Source Software, I'm always learning and evolving.
+		<br>Want a glimpse into my world? Find out more <a href="about_me.html">here</a>.
             </p>
         </section>
         <!--section id="content4">
