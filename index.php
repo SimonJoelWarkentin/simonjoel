@@ -61,6 +61,7 @@
             <p>Currently I am employed, but definetly open for new work.<br>Although I work in a tech company, I am in a sales position, not really in a tech job.<br>I am looking for a real tech job, for example in Linux System Administration,<br>but I would also accept another Sales job, if it is a good offer.</p>
             <p>here you can find:</p>
 	    <a href="cv.html">my CV</a>
+		<p></p>
 	    <a href="cover_letter">my Cover Letter</a>
         </section>
         <!--section id="content2">
@@ -75,7 +76,7 @@
             <p>This is why I want to share some pictures and thoughts of mine here in this section!
 		</p>
 		<hr>
-		<img src="assets/images/simon2.png" alt="Simon">
+		<!--img src="assets/images/simon2.png" alt="Simon"-->
 		<p>
 		Hey, I'm Simon Joel Warkentin.
 		<br>My journey has taken me through 5 countries, and along the way, I've picked up 4 languages.
