@@ -29,6 +29,10 @@ h1 {
     font-size: 3em;
 }
 
+#about-title {
+    min-height: 20vh;
+}
+
 #title-section img {
     height: 100px;
     width: auto;
