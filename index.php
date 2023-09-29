@@ -62,7 +62,7 @@
             <p>here you can find:</p>
 	    <a href="cv.html">my CV</a>
 		<p></p>
-	    <a href="cover_letter">my Cover Letter</a>
+	    <a href="cover_letter.html">my Cover Letter</a>
         </section>
         <!--section id="content2">
             <h2>Art...</h2>
