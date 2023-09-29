@@ -34,7 +34,7 @@
                 <li>
                     <a href="#content3" class="nav-link" id="nav-link-3">to stalk you</a>
                     <div id="dropdown-3" class="dropdown-content">
-                        <a href="sorry.html">About Me</a>
+                        <a href="about_me.php">About Me</a>
                         <a href="sorry.html">Thoughts</a>
                         <a href="sorry.html">Photos</a>
                     </div>
@@ -82,7 +82,7 @@
 		<br>My journey has taken me through 5 countries, and along the way, I've picked up 4 languages.
 		<br>Beyond the world of tech and Linux, I often lose myself in creating music or exploring new places.
 		<br>With a deep appreciation for Free and Open Source Software, I'm always learning and evolving.
-		<br>Want a glimpse into my world? Find out more <a href="about_me.html">here</a>.
+		<br>Want a glimpse into my world? Find out more <a href="about_me.php">here</a>.
             </p>
         </section>
         <!--section id="content4">
