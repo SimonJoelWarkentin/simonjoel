@@ -96,13 +96,13 @@ I'm always grateful for new connections and shared stories.
 		<p></p>
 	    <a href="cover_letter">my Cover Letter</a-->
         </section>
-        <!--section id="content2">
+        <section id="content2">
             <h2>Art...</h2>
             <b>...is the most important thing in life, for me.</b>
             <p>I am a musician since my childhood (used to work in the music industry before covid),<br>and I also enjoy painting and photography.</p>
             <p>As soon as I have time, I plan on posting some of my art here.</p>
         </section>
-        <section id="content3">
+        <!--section id="content3">
             <h2>I like sharing!...</h2>
             <b>...but I hate social media.</b>
             <p>This is why I want to share some pictures and thoughts of mine here in this section!
