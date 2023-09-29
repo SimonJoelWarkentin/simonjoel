@@ -120,7 +120,9 @@ I'm always grateful for new connections and shared stories.
         <section id="content4">
             <h2>Hmmmmm...</h2>
             <p>Some more content is gonna go here soon.<br>Probably something about self hosting...</p>
-        </section-->
+
+	</section-->
+<a href="index.php">Back to main page</a>
     </main>
     <hr>
     <footer>
