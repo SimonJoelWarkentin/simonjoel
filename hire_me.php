@@ -6,72 +6,43 @@
     <link id="dark-style" href="dark.css" rel="stylesheet" disabled>
 </head>
 <body>
-    <header>
-        <div id="title-section">
-            <!--img src="logo.png" alt="Logo"-->
-            <h2>I am available to work!</h2>
-	    <p>...and if you see this page,<br>you are probably looking to hire me...</p>
-		<p>Here you can find my CV, cover letter, and some info:</p>
-        </div>
+    <div id="title-section">
+	<h2>I am available to work!</h2>
+	<p>If you see this page,<br>you are probably looking to hire me...</p>
+	<p>...And if I applied for a job at your company,<br>I am very interested in working with you!</p>
+	<p>Here you can find my CV, cover letter, and some info:</p>
+    </div>
         <!--div id="navigation-bar">
-            <ul>
-                <li>
-                    <a href="#content1" class="nav-link" id="nav-link-1">to hire you</a>
-                    <div id="dropdown-1" class="dropdown-content">
-                        <p>Cool! I am available for work!<br>Here you can find:</p>
-                        <a href="cv.html">My CV</a>
-                        <a href="cover_letter.html">Cover Letter</a>
-                        <a href="sorry.html">My Experiences</a>
-                    </div>
-                </li>
-                <li>
-                    <a href="#content2" class="nav-link" id="nav-link-2">to see your art</a>
-                    <div id="dropdown-2" class="dropdown-content">
-                        <a href="sorry.html">Paintings</a>
-                        <a href="sorry.html">Photography</a>
-                        <a href="sorry.html">Music</a>
-                    </div>
-                </li>
-                <li>
-                    <a href="#content3" class="nav-link" id="nav-link-3">to stalk you</a>
-                    <div id="dropdown-3" class="dropdown-content">
-                        <a href="about_me.php">About Me</a>
-                        <a href="sorry.html">Thoughts</a>
-                        <a href="sorry.html">Photos</a>
-                    </div>
-                </li>
-                <li>
-                    <a href="#content4" class="nav-link" id="nav-link-4">I don't even know</a>
-                    <div id="dropdown-4" class="dropdown-content">
-                        <a href="sorry.html">Self Hosted Something</a>
-                        <a href="sorry.html">Something Else</a>
-                        <a href="sorry.html">Invidious</a>
-                    </div>
-                </li>
-            </ul>
         </div-->
-    </header>
     <button id="theme-toggle">
         <span id="moon-icon">🌙</span>
         <span id="sun-icon" hidden>☀️</span>
     </button>
     <main>
         <hr>
-        <section id="content1">
-            <h2>Available to work!</h2>
-            <p>Currently I am employed, but definetly open for new work.<br>Although I work in a tech company, I am in a sales position, not really in a tech job.<br>I am looking for a real tech job, for example in Linux System Administration,<br>but I would also accept another Sales job, if it is a good offer.</p>
-            <p>here you can find:</p>
-	    <a href="cv.html">my CV</a>
-		<p></p>
-	    <a href="cover_letter.html">my Cover Letter</a>
-        </section>
-        <!--section id="content2">
-            <h2>Art...</h2>
-            <b>...is the most important thing in life, for me.</b>
-            <p>I am a musician since my childhood (used to work in the music industry before covid),<br>and I also enjoy painting and photography.</p>
-            <p>As soon as I have time, I plan on posting some of my art here.</p>
+        <section id="content5">
+	    <h2>My CV:</h2>
+	    <a href="cv.html">view</a><br>
+	    <a href="cv.html">download as PDF</a>
+		<hr>
+	    <h2>My Cover Letter:</h2>
+	    <a href="cover_letter.html">view</a><br>
+	    <a href="cover_letter.html">download as PDF</a>
         </section>
         <section id="content3">
+            <h2>Experiences:</h2>
+            <b>Here are some websites that i built and host:</b>
+		<hr>
+		<a href="https://straightline.wiki">Straight Line Wiki</a>
+		<p>A website that renders a database containing every relevant straight line mission I could find<br>(you will also find an explanation on what straight line missions are on the site.)</p>
+		<hr>
+		<a href="https://simonjoel.com">Simonjoel.com</a>
+		<p>A website i made to increase the chances of being hired by you<br>(I will modify it to be more about me personally after I get a job)</p>
+		<hr>
+		<a href="https://tenerifearthostel.github.io/">Tenerife Art Hostel</a>
+		<p>A website for a Hostel where I used to work. Fun times...<br>(It was my first attempt ad web development, and I don't actually host it myself</p>
+        </section>
+        <!--section id="content3">
             <h2>I like sharing!...</h2>
             <b>...but I hate social media.</b>
             <p>This is why I want to share some pictures and thoughts of mine here in this section!

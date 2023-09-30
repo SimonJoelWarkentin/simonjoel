@@ -1,5 +1,5 @@
 html {
-	scroll-behavior: smooth;
+    scroll-behavior: smooth;
 }
 
 ::selection {
@@ -12,12 +12,13 @@ body {
     color: #222;
     font-family: 'Arial', sans-serif;
     margin:0%;
+    min-height: 100vh;
 }
 
 header {
     min-height: 60vh;
     text-align: center;
-    padding: 20px 0;
+    /*padding: 20px 0;*/
 }
 
 h1 {
@@ -26,11 +27,8 @@ h1 {
 }
 
 #title-section {
+    text-align: center;
     font-size: 3em;
-}
-
-#about-title {
-    min-height: 20vh;
 }
 
 #title-section img {
@@ -97,8 +95,8 @@ button:hover {
 }
 
 hr {
-	opacity: 0;
-	padding-bottom: 30px;
+    opacity: 0;
+    padding-bottom: 30px;
 }
 
 main {
@@ -115,14 +113,14 @@ section {
 }
 
 a {
-	text-decoration: none;
+    text-decoration: none;
     font-weight: 600;
-	color: #922;
-	transition: 0.3s;
+    color: #922;
+    transition: 0.3s;
 }
 
 a[href]:hover {
-	color: #d55;
+    color: #d55;
 }
 
 #content1, #content3 {
