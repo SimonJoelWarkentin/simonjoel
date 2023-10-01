@@ -22,12 +22,12 @@
         <hr>
         <section id="content5">
 	    <h2>My CV:</h2>
-	    <a href="cv.html">view</a><br>
-	    <a href="cv.html">download as PDF</a>
+	    <a href="cv.html" class="download-button">view</a><br>
+	    <a href="cv.html" class="download-button">download as PDF</a>
 		<hr>
 	    <h2>My Cover Letter:</h2>
-	    <a href="cover_letter.html">view</a><br>
-	    <a href="cover_letter.html">download as PDF</a>
+	    <a href="cover_letter.html" class="download-button">view</a><br>
+	    <a href="cover_letter.html" class="download-button">download as PDF</a>
         </section>
         <section id="content3">
             <h2>Experiences:</h2>
@@ -40,7 +40,7 @@
 		<p>A website i made to increase the chances of being hired by you<br>(I will modify it to be more about me personally after I get a job)</p>
 		<hr>
 		<a href="https://tenerifearthostel.github.io/">Tenerife Art Hostel</a>
-		<p>A website for a Hostel where I used to work. Fun times...<br>(It was my first attempt ad web development, and I don't actually host it myself</p>
+		<p>A website for a Hostel where I used to work. Fun times...<br>(It was my first attempt ad web development, and I don't actually host it myself)</p>
         </section>
         <!--section id="content3">
             <h2>I like sharing!...</h2>

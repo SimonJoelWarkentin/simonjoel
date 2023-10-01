@@ -94,6 +94,26 @@ button:hover {
     transform: scale(1.2);
 }
 
+.download-button {
+    min-width: 140px;
+    margin-bottom: 10px;
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #333;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.download-button:hover {
+    background-color: #111;
+    transform: scale(1.02);
+}
+ 
 hr {
     opacity: 0;
     padding-bottom: 30px;
@@ -147,6 +167,12 @@ a[href]:hover {
 
 #content4 h2 {
     color: #FF7766;
+}
+
+#content5 {
+    text-align: left;
+    margin-left: 5%;
+    margin-bottom:5%;
 }
 
 footer {
