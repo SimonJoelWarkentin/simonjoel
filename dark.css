@@ -104,6 +104,7 @@ button:hover {
     color: #fff;
     background-color: #333;
     border-radius: 5px;
+    border: 2px solid #333;
     text-decoration: none;
     font-weight: bold;
     text-align: center;
@@ -113,6 +114,7 @@ button:hover {
 
 .download-button:hover {
     background-color: #111;
+    border: 2px solid #fdc;
     transform: scale(1.02);
 }
  

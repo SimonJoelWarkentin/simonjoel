@@ -23,11 +23,11 @@
         <section id="content5">
 	    <h2>My CV:</h2>
 	    <a href="cv.html" class="download-button">view</a><br>
-	    <a href="cv.html" class="download-button">download as PDF</a>
+	    <a href="Simon_Joel_CV.pdf" download="Simon_Joel_CV.pdf" class="download-button">download as PDF</a>
 		<hr>
 	    <h2>My Cover Letter:</h2>
 	    <a href="cover_letter.html" class="download-button">view</a><br>
-	    <a href="cover_letter.html" class="download-button">download as PDF</a>
+	    <a href="Simon_Joel_Cover_Letter.pdf" download="Simon_Joel_Cover_Letter.pdf" class="download-button">download as PDF</a>
         </section>
         <section id="content3">
             <h2>Experiences:</h2>
