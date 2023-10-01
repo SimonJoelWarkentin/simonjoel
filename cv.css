@@ -97,8 +97,8 @@ hr {
     display: inline-block;
     padding: 10px 20px;
     color: #fff;
-    background-color: #c45;
-    border: 2px solid #c45;
+    background-color: #f89;
+    border: 2px solid #f89;
     border-radius: 5px;
     text-decoration: none;
     font-weight: bold;
@@ -108,8 +108,9 @@ hr {
 }
 
 .download-button:hover {
-    background-color: #f56;
-    border: 2px solid black;
+    background-color: #c45;
+    border: 2px solid #934;
+    color: #fff;
     transform: scale(1.02);
 }
 
