@@ -19,8 +19,9 @@
                     <div id="dropdown-1" class="dropdown-content">
                         <p>Cool! I am available for work!<br>Here you can find:</p>
                         <a href="cv.html">My CV</a>
-                        <a href="cover_letter.html">Cover Letter</a>
-                        <a href="hire_me.php#content5">My Experiences</a>
+                        <a href="cover_letter.html">My Cover Letter</a>
+			<a href="hire_me.php#content5">My Experiences</a>
+			<a href="hire_me.php">Overview</a>
                     </div>
                 </li>
                 <li>
@@ -63,6 +64,8 @@
 	    <a href="cv.html">my CV</a>
 		<p></p>
 	    <a href="cover_letter.html">my Cover Letter</a>
+		<p></p>
+	    <a href="hire_me.php">An Overview</a>
         </section>
         <!--section id="content2">
             <h2>Art...</h2>
@@ -76,7 +79,7 @@
             <p>This is why I want to share some pictures and thoughts of mine here in this section!
 		</p>
 		<hr>
-		<!--img src="assets/images/simon2.png" alt="Simon"-->
+		<!--img src="assets/images/simon2.png" alt="Simon"--><!--don't forget to style this when uncommenting it (also in dark)-->
 		<p>
 		Hey, I'm Simon Joel Warkentin.
 		<br>My journey has taken me through 5 countries, and along the way, I've picked up 4 languages.

@@ -161,6 +161,12 @@ a[href]:hover {
     color: #FF7766;
 }
 
+#content3 img {
+    max-height: 10%;
+    width: auto;
+    display: block;
+}
+
 #content4 {
     text-align: right;
     background-color: #282828;

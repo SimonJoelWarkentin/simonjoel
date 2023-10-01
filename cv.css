@@ -8,10 +8,9 @@ html {
 }
 
 body {
-/*    background: linear-gradient(to bottom, #fed 0%, #fff 50%, #fdc 100%);
-*/
-	background-color: #dfdcdc;
-	color: #222;
+/*    background: linear-gradient(to bottom, #fed 0%, #fff 50%, #fdc 100%);*/
+    background-color: #dfdcdc;
+    color: #222;
     font-family: 'Arial', sans-serif;
     margin:0%;
 }
@@ -92,9 +91,31 @@ hr {
     margin-top: 0px;
 }
 
+.download-button {
+    min-width: 140px;
+    margin-bottom: 10px;
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #c45;
+    border: 2px solid #c45;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.download-button:hover {
+    background-color: #f56;
+    border: 2px solid black;
+    transform: scale(1.02);
+}
+
 p {
-	color: #666;
-	font-size: 14px;
+    color: #666;
+    font-size: 14px;
     padding-bottom: 10px;
 }
 
@@ -107,12 +128,12 @@ footer {
 }
 
 a {
-	text-decoration: none;
+    text-decoration: none;
     font-weight: 600;
-	color: #922;
-	transition: 0.3s;
+    color: #922;
+    transition: 0.3s;
 }
 
 a[href]:hover {
-	color: #d55;
+    color: #d55;
 }

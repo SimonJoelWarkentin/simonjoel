@@ -6,7 +6,6 @@
     <link id="dark-style" href="dark.css" rel="stylesheet" disabled>
 </head>
 <body>
-    <header>
         <div id="title-section">
             <!--img src="logo.png" alt="Logo"-->
             <h4>About me</h4>
@@ -15,7 +14,7 @@
 <br><br>
 	I don't use social media anymore, but I still like to share some of my life!
 <br><br>
-	I will keep adding more contnt on here as time goes on.
+	I will keep adding more content on here as time goes on.
 	</p>
         </div>
         <!--div id="navigation-bar">
@@ -55,7 +54,6 @@
                 </li>
             </ul>
         </div-->
-    </header>
     <button id="theme-toggle">
         <span id="moon-icon">🌙</span>
         <span id="sun-icon" hidden>☀️</span>
@@ -96,7 +94,7 @@ I'm always grateful for new connections and shared stories.
 		<p></p>
 	    <a href="cover_letter">my Cover Letter</a-->
         </section>
-        <section id="content2">
+        <section id="content3">
             <h2>Art...</h2>
             <b>...is the most important thing in life, for me.</b>
             <p>I am a musician since my childhood (used to work in the music industry before covid),<br>and I also enjoy painting and photography.</p>
@@ -116,12 +114,12 @@ I'm always grateful for new connections and shared stories.
 		<br>With a deep appreciation for Free and Open Source Software, I'm always learning and evolving.
 		<br>Want a glimpse into my world? Find out more <a href="about_me.html">here</a>.
             </p>
-        </section>
+        </section-->
         <section id="content4">
             <h2>Hmmmmm...</h2>
             <p>Some more content is gonna go here soon.<br>Probably something about self hosting...</p>
 
-	</section-->
+	</section>
 <a href="index.php">Back to main page</a>
     </main>
     <hr>
