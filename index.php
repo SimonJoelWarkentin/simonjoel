@@ -36,8 +36,8 @@
                     <a href="#content3" class="nav-link" id="nav-link-3">to stalk you</a>
                     <div id="dropdown-3" class="dropdown-content">
                         <a href="about_me.php">About Me</a>
-                        <a href="sorry.html">Thoughts</a>
-                        <a href="sorry.html">Photos</a>
+                        <a href="about_me.php#content4">Thoughts</a>
+                        <a href="about_me.php#content2">Photos</a>
                     </div>
                 </li>
                 <li>
@@ -81,7 +81,7 @@
 		<hr>
 		<!--img src="assets/images/simon2.png" alt="Simon"--><!--don't forget to style this when uncommenting it (also in dark)-->
 		<p>
-		Hey, I'm Simon Joel Warkentin.
+		You probably know this by now... My name is Simon Joel Warkentin.
 		<br>My journey has taken me through 5 countries, and along the way, I've picked up 4 languages.
 		<br>Beyond the world of tech and Linux, I often lose myself in creating music or exploring new places.
 		<br>With a deep appreciation for Free and Open Source Software, I'm always learning and evolving.

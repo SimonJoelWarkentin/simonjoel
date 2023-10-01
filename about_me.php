@@ -116,11 +116,21 @@ I'm always grateful for new connections and shared stories.
             </p>
         </section-->
         <section id="content4">
-            <h2>Hmmmmm...</h2>
-            <p>Some more content is gonna go here soon.<br>Probably something about self hosting...</p>
-
+            <h2>Thoughts</h2>
+            <p>Some more content is gonna go here soon.<br>Probably some of my personal thoughts about stuff...</p>
+		<hr><hr><hr>
 	</section>
-<a href="index.php">Back to main page</a>
+	<section id="content2">
+	    <h2>Photos</h2>
+	    <p>In this section i plan on posting some photos.
+		<br>some of myself, some nice ones that I took...
+		<br>basically what people normally do on social media, but without the BS.
+		<br><br>There are no photos here for now because i
+		<br>didn't take the time yet... But i will soon.
+	    </p>
+	</section>
+	<a href="index.php">Back to main page</a>
+<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
     </main>
     <hr>
     <footer>
