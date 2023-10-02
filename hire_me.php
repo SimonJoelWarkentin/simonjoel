@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Simon Joel</title>
+    <link rel="icon" href="assets/images/logo.png" type="image/icon type">
     <link id="theme-style" href="style.css" rel="stylesheet">
     <link id="dark-style" href="dark.css" rel="stylesheet" disabled>
 </head>

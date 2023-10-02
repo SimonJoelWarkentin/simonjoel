@@ -162,9 +162,9 @@ a[href]:hover {
 }
 
 #content3 img {
-    max-height: 10%;
+    max-height: 40px;
     width: auto;
-    display: block;
+/*    display: block;*/
 }
 
 #content4 {

@@ -2,14 +2,14 @@
 <html>
 <head>
     <title>Simon Joel</title>
+    <link rel="icon" href="assets/images/logo.png" type="image/icon type">
     <link id="theme-style" href="style.css" rel="stylesheet">
     <link id="dark-style" href="dark.css" rel="stylesheet" disabled>
 </head>
 <body>
     <header>
         <div id="title-section">
-            <!--img src="logo.png" alt="Logo"-->
-            <h1>hi, i'm Simon Joel</h1>
+            <h1>hi, i'm Simon Joel</h1> 
             <p>why are you here?</p>
         </div>
         <div id="navigation-bar">
@@ -37,7 +37,7 @@
                     <div id="dropdown-3" class="dropdown-content">
                         <a href="about_me.php">About Me</a>
                         <a href="about_me.php#content4">Thoughts</a>
-                        <a href="about_me.php#content2">Photos</a>
+                        <a href="about_me.php#content1">Photos</a>
                     </div>
                 </li>
                 <li>
@@ -79,7 +79,8 @@
             <p>This is why I want to share some pictures and thoughts of mine here in this section!
 		</p>
 		<hr>
-		<!--img src="assets/images/simon2.png" alt="Simon"--><!--don't forget to style this when uncommenting it (also in dark)-->
+		<!--img src="assets/images/simon2.png" alt="Simon"><don't forget to style this when uncommenting it (also in dark)-->
+                <!--img src="assets/images/logo.png" alt="Logo"-->
 		<p>
 		You probably know this by now... My name is Simon Joel Warkentin.
 		<br>My journey has taken me through 5 countries, and along the way, I've picked up 4 languages.

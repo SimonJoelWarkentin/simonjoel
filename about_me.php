@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>About Simon Joel</title>
+    <link rel="icon" href="assets/images/logo.png" type="image/icon type">
     <link id="theme-style" href="style.css" rel="stylesheet">
     <link id="dark-style" href="dark.css" rel="stylesheet" disabled>
 </head>
@@ -120,7 +121,7 @@ I'm always grateful for new connections and shared stories.
             <p>Some more content is gonna go here soon.<br>Probably some of my personal thoughts about stuff...</p>
 		<hr><hr><hr>
 	</section>
-	<section id="content2">
+	<section id="content1">
 	    <h2>Photos</h2>
 	    <p>In this section i plan on posting some photos.
 		<br>some of myself, some nice ones that I took...
