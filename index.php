@@ -21,7 +21,8 @@
                         <a href="cv.html">My CV</a>
                         <a href="cover_letter.html">My Cover Letter</a>
 			<a href="hire_me.php#content5">My Experiences</a>
-			<a href="hire_me.php">Overview</a>
+			<a href="hire_me.php#content3">Overview</a>
+			<a href="hire_me.php#content6">Contact</a>
                     </div>
                 </li>
                 <li>
@@ -37,7 +38,8 @@
                     <div id="dropdown-3" class="dropdown-content">
                         <a href="about_me.php">About Me</a>
                         <a href="about_me.php#content4">Thoughts</a>
-                        <a href="about_me.php#content1">Photos</a>
+			<a href="about_me.php#content1">Photos</a>
+			<a href="about_me.php#content6">Contact</a>
                     </div>
                 </li>
                 <li>

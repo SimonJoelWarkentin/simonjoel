@@ -43,25 +43,20 @@
 		<a href="https://tenerifearthostel.github.io/">Tenerife Art Hostel</a>
 		<p>A website for a Hostel where I used to work. Fun times...<br>(It was my first attempt ad web development, and I don't actually host it myself)</p>
         </section>
-        <!--section id="content3">
-            <h2>I like sharing!...</h2>
-            <b>...but I hate social media.</b>
-            <p>This is why I want to share some pictures and thoughts of mine here in this section!
-		</p>
-		<hr>
-		<p>
-		Hey, I'm Simon Joel Warkentin.
-		<br>My journey has taken me through 5 countries, and along the way, I've picked up 4 languages.
-		<br>Beyond the world of tech and Linux, I often lose myself in creating music or exploring new places.
-		<br>With a deep appreciation for Free and Open Source Software, I'm always learning and evolving.
-		<br>Want a glimpse into my world? Find out more <a href="about_me.php">here</a>.
-            </p>
-        </section>
-        <section id="ontent4">
+        <section id="content6">
+            <h2>Contact Me:</h2>
+            <b>Please feel free to contact me through any of these channels:</b>
+            <p>Email: <a href="mailto:mail@simonjoel.com">mail@simonjoel.com</a></p>
+	    <p>Phone: <a href="tel:+351927564122">+351 927564122</a> (Whatsapp)</p>
+	    <p>LinkedIn: <a href="https://linkedin.com/in/simon-joel-warkentin-a9a1aa280">Simon Joel Warkentin</a></p>
+	    <hr>
+	</section>
+        <!--section id="content4">
             <h2>Hmmmmm...</h2>
             <p>Some more content is gonna go here soon.<br>Probably something about self hosting...</p>
 	</section-->
 	<a href="index.php">Back to main page</a>
+<hr><hr><hr><hr><hr><hr>
     </main>
     <hr>
     <footer>

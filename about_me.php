@@ -130,6 +130,14 @@ I'm always grateful for new connections and shared stories.
 		<br>didn't take the time yet... But i will soon.
 	    </p>
 	</section>
+        <section id="content6">
+           <h2>Contact Me:</h2>
+            <b>Please feel free to contact me through any of these channels:</b>
+            <p>Email: <a href="mailto:mail@simonjoel.com">mail@simonjoel.com</a></p>
+            <p>Phone: <a href="tel:+351927564122">+351 927564122</a> (Whatsapp)</p>
+            <p>LinkedIn: <a href="https://linkedin.com/in/simon-joel-warkentin-a9a1aa280">Simon Joel Warkentin</a></p>
+            <hr>
+        </section> 
 	<a href="index.php">Back to main page</a>
 <hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
     </main>
