@@ -38,7 +38,7 @@
                     <div id="dropdown-3" class="dropdown-content">
                         <a href="about_me.php">About Me</a>
                         <a href="about_me.php#content4">Thoughts</a>
-			<a href="about_me.php#content1">Photos</a>
+			<a href="about_me.php#content7">Photos</a>
 			<a href="about_me.php#content6">Contact</a>
                     </div>
                 </li>

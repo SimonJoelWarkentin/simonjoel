@@ -121,16 +121,29 @@ I'm always grateful for new connections and shared stories.
             <p>Some more content is gonna go here soon.<br>Probably some of my personal thoughts about stuff...</p>
 		<hr><hr><hr>
 	</section>
-	<section id="content1">
+
+	<section id="content7">
 	    <h2>Photos</h2>
-	    <p>In this section i plan on posting some photos.
-		<br>some of myself, some nice ones that I took...
-		<br>basically what people normally do on social media, but without the BS.
-		<br><br>There are no photos here for now because i
-		<br>didn't take the time yet... But i will soon.
-	    </p>
+	    <b>Here i will post some photos.<br>They might be photos of me or photos that I took,<br>Kind of what people post on social media,<br>but without the BS of social media.</b>
+<hr>
+	    <div class="image-text-wrapper">
+	        <img src="assets/images/cork.jpg" alt="Cork" class="left-image">
+	        <p>This is Cork, the city I live in.</p>
+	    </div>
+	    <hr>
+	    <div class="image-text-wrapper right-aligned">
+	        <img src="assets/images/cork2.jpg" alt="Cork by sunset" class="right-image">
+	        <p>This is Cork too, but by sunrise.<br>The sunrise is my second favourite time of the day!</p>
+	    </div>
+	    <hr>
+	    <div class="image-text-wrapper">
+	        <img src="assets/images/simon2.png" alt="Simon" class="left-image">
+		<p>And this is me. Hello!</p>
+<hr>
+	    </div>
 	</section>
-        <section id="content6">
+
+	<section id="content6">
            <h2>Contact Me:</h2>
             <b>Please feel free to contact me through any of these channels:</b>
             <p>Email: <a href="mailto:mail@simonjoel.com">mail@simonjoel.com</a></p>

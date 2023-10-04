@@ -187,6 +187,39 @@ a[href]:hover {
     color: #fff
 }
 
+#content7 {
+    padding: 20px;
+    background-color: #ddd;
+    box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.2);
+}
+
+.image-text-wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.image-text-wrapper p {
+    flex: 1; /* Ensure the text takes up all available space */
+    margin: 0 20px; /* Margin between image and text */
+}
+
+.left-image,
+.right-image {
+    border-radius: 4px;
+    height: 40vh;
+    width: auto;
+}
+
+.right-aligned {
+    flex-direction: row-reverse;
+}
+
+.right-aligned p {
+    text-align: right;
+}
+
+
 footer {
     font-size: 14px;
     font-weight: normal;

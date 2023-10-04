@@ -187,6 +187,45 @@ a[href]:hover {
     margin-bottom: 5%;
 }
 
+#content7 {
+    padding: 20px;
+    text-align: left;
+    background-color: #464646;
+    color: #fff;
+    box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.2);
+}
+
+#content7 h2 {
+    color: #FF7766;
+}
+
+.image-text-wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.image-text-wrapper p {
+    flex: 1;
+    margin: 0 20px;
+}
+
+.left-image,
+.right-image {
+    border-radius: 4px;
+    height: 40vh;
+    width: auto;
+}
+
+.right-aligned {
+    flex-direction: row-reverse;
+}
+
+.right-aligned p {
+    text-align: right;
+}
+
+
 footer {
     font-size: 14px;
     font-weight: normal;
