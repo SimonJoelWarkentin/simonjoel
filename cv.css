@@ -91,29 +91,6 @@ hr {
     margin-top: 0px;
 }
 
-.download-button {
-    min-width: 140px;
-    margin-bottom: 10px;
-    display: inline-block;
-    padding: 10px 20px;
-    color: #fff;
-    background-color: #f89;
-    border: 2px solid #f89;
-    border-radius: 5px;
-    text-decoration: none;
-    font-weight: bold;
-    text-align: center;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-.download-button:hover {
-    background-color: #c45;
-    border: 2px solid #934;
-    color: #fff;
-    transform: scale(1.02);
-}
-
 p {
     color: #666;
     font-size: 14px;
@@ -139,6 +116,7 @@ a[href]:hover {
     color: #d55;
 }
 
+/*Not using right now, but pretty good for the "download as pdf" button...*/
 .download-button {
     min-width: 140px;
     margin-bottom: 10px;
