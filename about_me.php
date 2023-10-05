@@ -128,7 +128,7 @@ I'm always grateful for new connections and shared stories.
 <hr>
 	    <div class="image-text-wrapper">
 	        <img src="assets/images/cork.jpg" alt="Cork" class="left-image">
-	        <p>This is Cork, the city I live in.</p>
+	        <p>This is Cork, the city I live in.<br>It is the best city in Ireland<br>According to the people from Cork.<br>If you are from Dublin... Well, I am sorry.</p>
 	    </div>
 	    <hr>
 	    <div class="image-text-wrapper right-aligned">
@@ -137,12 +137,16 @@ I'm always grateful for new connections and shared stories.
 	    </div>
 	    <hr>
 	    <div class="image-text-wrapper">
-	        <img src="assets/images/simon2.png" alt="Simon" class="left-image">
-		<p>And this is me. Hello!</p>
-<hr>
+	        <img src="assets/images/tenerife.jpg" alt="Simon" class="left-image">
+		<p>This is me in Tenerife,<br>Right before the sunset.<br>The sunset is my favourite time of the day!<br>I lived in Tenerife for 6 months before moving to Ireland.<br>Fun times...</p>
 	    </div>
+	    <hr>
+            <div class="image-text-wrapper right-aligned">
+                <img src="assets/images/simon2.png" alt="Simon" class="left-image">
+                <p>And this is me,<br>without any background.<br>Hello!</p>
+            </div>
+            <hr>
 	</section>
-
 	<section id="content6">
            <h2>Contact Me:</h2>
             <b>Please feel free to contact me through any of these channels:</b>
