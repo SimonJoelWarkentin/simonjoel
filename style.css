@@ -101,7 +101,7 @@ button:hover {
     padding: 10px 20px;
     color: #fff;
     background-color: #c45;
-    border: 2px solid #c45;
+    border: 1px solid #c45;
     border-radius: 5px;
     text-decoration: none;
     font-weight: bold;
@@ -112,7 +112,7 @@ button:hover {
 
 .download-button:hover {
     background-color: #f56;
-    border: 2px solid black;
+    border: 1px solid black;
     transform: scale(1.02);
 }
  
