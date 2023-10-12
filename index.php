@@ -20,8 +20,8 @@
                         <p>Cool! I am available for work!<br>Here you can find:</p>
                         <a href="cv.html">My CV</a>
                         <a href="cover_letter.html">My Cover Letter</a>
-			<a href="hire_me.php#content5">My Experiences</a>
-			<a href="hire_me.php#content3">Overview</a>
+			<a href="hire_me.php#content3">My Experiences</a>
+			<a href="hire_me.php">Overview</a>
 			<a href="hire_me.php#content6">Contact</a>
                     </div>
                 </li>
