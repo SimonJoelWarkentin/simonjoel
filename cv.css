@@ -76,14 +76,14 @@ hr {
     color: #666;
 }
 
-.letter {
+.letter p {
     margin-bottom: 0;
     color:#222;
     font-size: 16px;
     padding-top: 0;
 }
 
-.letterhr {
+.letter hr {
 	opacity: 0;
 	height: 10px;
     padding-bottom: 0px;
