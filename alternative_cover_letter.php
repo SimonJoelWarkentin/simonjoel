@@ -18,7 +18,7 @@
         <h1>Simon Joel Warkentin</h1>
         <p>Birth Date: 14 - Dec - 1998</p>
         <p>Current location: Cork, Ireland<br>(but willing to relocate and/or work remotely)</p>
-	<a href="Simon_Joel_Cover_Letter.pdf" download="Simon_Joel_Cover_Letter.pdf">download as PDF</a>
+	<!--a href="Simon_Joel_Cover_Letter.pdf" download="Simon_Joel_Cover_Letter.pdf">download as PDF</a-->
     </div>
 </header>
 <section class="work-experiences">
@@ -40,7 +40,7 @@
 
     <footer>
         <p>Contact: mail@simonjoel.com | Phone: +351 927564122</p>
-        <a href="index.php">Back to main page</a>
+        <!--a href="index.php">Back to main page</a-->
     </footer>
 
 </body>
