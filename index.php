@@ -5,6 +5,7 @@
     <link rel="icon" href="assets/images/logo.png" type="image/icon type">
     <link id="theme-style" href="style.css" rel="stylesheet">
     <link id="dark-style" href="dark.css" rel="stylesheet" disabled>
+<script defer data-domain="simonjoel.com" src="https://stats.simonjoel.com/js/script.js"></script>
 </head>
 <body>
     <header>
