@@ -151,7 +151,7 @@ I'm always grateful for new connections and shared stories.
            <h2>Contact Me:</h2>
             <b>Please feel free to contact me through any of these channels:</b>
             <p>Email: <a href="mailto:mail@simonjoel.com">mail@simonjoel.com</a></p>
-            <p>Phone: <a href="tel:+351927564122">+351 927564122</a> (Whatsapp)</p>
+            <p>Phone: <a href="tel:+353894566266">+353 894566266</a> (Whatsapp)</p>
             <p>LinkedIn: <a href="https://linkedin.com/in/simon-joel-warkentin-a9a1aa280">Simon Joel Warkentin</a></p>
             <hr>
         </section> 
