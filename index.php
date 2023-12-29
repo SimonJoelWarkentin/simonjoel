@@ -19,11 +19,14 @@
                 <li>
                     <a href="#content1" class="nav-link" id="nav-link-1">to hire you</a>
                     <div id="dropdown-1" class="dropdown-content">
-                        <p>Cool! I am available for work!<br>Here you can find:</p>
-                        <a href="cv.html">My CV</a>
+			<p>Sorry, I am not available to work right now...</p>
+			<p>I have just been hired by a very cool company<br>and i will start soon!</p>
+			<p>But if you still want to contact me, you can:</p>
+			<!--p>Cool! I am available for work!<br>Here you can find:</p-->
+                        <!--a href="cv.html">My CV</a>
                         <a href="cover_letter.html">My Cover Letter</a>
 			<a href="hire_me.php#content3">My Experiences</a>
-			<a href="hire_me.php">Overview</a>
+			<a href="hire_me.php">Overview</a-->
 			<a href="hire_me.php#content6">Contact</a>
                     </div>
                 </li>
@@ -62,7 +65,7 @@
     <main>
         <hr>
         <section id="content1">
-            <h2>Available to work!</h2>
+            <!--h2>Available to work!</h2>
             <p>Currently I am employed, but definetly open for new work.<br>Although I work in a tech company, I am in a sales position, not really in a tech job.<br>I am looking for a real tech job, for example in Linux System Administration,<br>but I would also accept another Sales job, if it is a good offer.</p>
             <p>here you can find:</p>
 	    <a href="cv.html">my CV</a>
@@ -71,12 +74,12 @@
 		<p></p>
 	    <a href="hire_me.php">An Overview</a>
         </section>
-        <!--section id="content2">
+        <section id="content2"-->
             <h2>Art...</h2>
             <b>...is the most important thing in life, for me.</b>
             <p>I am a musician since my childhood (used to work in the music industry before covid),<br>and I also enjoy painting and photography.</p>
             <p>As soon as I have time, I plan on posting some of my art here.</p>
-        </section-->
+        </section>
         <section id="content3">
             <h2>I like sharing!...</h2>
             <b>...but I hate social media.</b>
