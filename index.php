@@ -27,7 +27,7 @@
                         <a href="cover_letter.html">My Cover Letter</a>
 			<a href="hire_me.php#content3">My Experiences</a>
 			<a href="hire_me.php">Overview</a-->
-			<a href="hire_me.php#content6">Contact</a>
+			<a href="about_me.php#content6">Contact</a>
                     </div>
                 </li>
                 <li>
